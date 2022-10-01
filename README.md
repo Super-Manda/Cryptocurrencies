@@ -33,19 +33,41 @@ There are important clients who are preparing to get into the cryptocurrency mar
 
 ## :atom:  Conclusion
 
-- In conclusion, all of these clusters tend to be dominated by currencies of low cost-- valued in the cents or less.  Although there are differences among the clusters, none of them stand out as clearly "the best cluster" unless we know what the client's particular need is.  
- 
-- Class 0 contains about half of the data points.  There are more recognizable names among them, such as Litecoin Cash and Cardano.
+### In conclusion, all of these clusters shown in the model tend to be dominated by currencies of low cost (valued in the cents or less).  Although there are differences among the clusters, none of them stand out as clearly "the best cluster" unless we know more about what the client's particular interest is.  Some of the relatively unknown ones or "valueless" ones may have the potential to grow if they are relatively reputable and associated with a needed purpose in society; however, nothing on this page is meant to be construed as financial advice.    
+
+### Clusters may correspond to some degree with the purpose of the crypto, so unless the client has a particular interest in the last two outlier clusters, the aim would likely be to hand-pick from among Class 0 and Class 1.
+
+## 
+- **Class 0 contains about half of the data points.  There are more recognizable names among them, such as Litecoin Cash and Cardano.**
 ![class0](https://github.com/Super-Manda/Cryptocurrencies/blob/main/images/3d_graph_on_click_class0.png)
 
+[LCC](https://github.com/Super-Manda/Cryptocurrencies/blob/main/images/LCC.png) 
 
-- Class 1 contains about half of the data points.  This appears to be a cast of unknown coins, some of them regional or used in particular games, such as NewYorkCoin and UFO.
+[ADA](https://github.com/Super-Manda/Cryptocurrencies/blob/main/images/ADA.png)
+
+
+##
+
+- **Class 1 contains about half of the data points.  This appears to be a cast of unknown coins.  Some of them appear to be regional or used in particular games, such as NewYorkCoin and UFO.**  
 ![class1](https://github.com/Super-Manda/Cryptocurrencies/blob/main/images/3d_graph_on_click_class1.png)
 
+[UFO](https://github.com/Super-Manda/Cryptocurrencies/blob/main/images/UFO.png)
 
-- Class 2 is an outlier cluster that contains BitTorrent (BTT), which appears to be of near-zero value, but it does have name recognition due to its relationship with file-sharing. 
+[NYC](https://github.com/Super-Manda/Cryptocurrencies/blob/main/images/NYC.png)
+
+
+
+## 
+- **Class 2 is an outlier cluster that contains BitTorrent (BTT), which appears to be of near-zero value, but it does have name recognition due to its relationship with file-sharing.** 
 ![class2](https://github.com/Super-Manda/Cryptocurrencies/blob/main/images/3d_graph_on_click_class2.png) 
 
 
-- Class 3 is an outlier that contains Acute Angle (AAC), which also appears to be of very low value and a relatively unknown currency. 
+[BTT](https://github.com/Super-Manda/Cryptocurrencies/blob/main/images/BTT.png)
+
+
+
+## 
+- **Class 3 is an outlier that contains Acute Angle (AAC), which also appears to be of very low value and a relatively unknown currency related to the cloud.** 
 ![class3](https://github.com/Super-Manda/Cryptocurrencies/blob/main/images/3d_graph_on_click_class3.png)
+
+[AAC](https://github.com/Super-Manda/Cryptocurrencies/blob/main/images/AAC.png) 
