@@ -38,12 +38,12 @@ There are important clients who are preparing to get into the cryptocurrency mar
 
 
 - Class 1
-![class1] (https://github.com/Super-Manda/Cryptocurrencies/blob/main/images/3d_graph_on_click_class1.png)
+![class1](https://github.com/Super-Manda/Cryptocurrencies/blob/main/images/3d_graph_on_click_class1.png)
 
 
 - Class 2
-![class2] (https://github.com/Super-Manda/Cryptocurrencies/blob/main/images/3d_graph_on_click_class2.png) 
+![class2](https://github.com/Super-Manda/Cryptocurrencies/blob/main/images/3d_graph_on_click_class2.png) 
 
 
 - Class 3
-![class3] (https://github.com/Super-Manda/Cryptocurrencies/blob/main/images/3d_graph_on_click_class3.png)
+![class3](https://github.com/Super-Manda/Cryptocurrencies/blob/main/images/3d_graph_on_click_class3.png)
