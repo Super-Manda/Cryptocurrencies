@@ -16,7 +16,7 @@ There are important clients who are preparing to get into the cryptocurrency mar
 ![Deliverable2](https://github.com/Super-Manda/Cryptocurrencies/blob/main/images/deliverable2_table.png)
 
 ### In deliverable 3, cryptocurrencies were clustered using k-means to group them.
-- This resulted in an Elbow Curve:
+- According to this Elbow Curve, there should be 4 clusters:
 ![Deliverable3a](https://github.com/Super-Manda/Cryptocurrencies/blob/main/images/deliverable3_elbow_curve.png)
 
 - A 3d rotating graph was useful to see where the clusters existed.
@@ -33,4 +33,17 @@ There are important clients who are preparing to get into the cryptocurrency mar
 
 ## :atom:  Conclusion
 
+- Class 0
+![class0](https://github.com/Super-Manda/Cryptocurrencies/blob/main/images/3d_graph_on_click_class0.png)
 
+
+- Class 1
+![class1] (https://github.com/Super-Manda/Cryptocurrencies/blob/main/images/3d_graph_on_click_class1.png)
+
+
+- Class 2
+![class2] (https://github.com/Super-Manda/Cryptocurrencies/blob/main/images/3d_graph_on_click_class2.png) 
+
+
+- Class 3
+![class3] (https://github.com/Super-Manda/Cryptocurrencies/blob/main/images/3d_graph_on_click_class3.png)
