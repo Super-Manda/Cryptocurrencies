@@ -6,28 +6,28 @@ There are important clients who are preparing to get into the cryptocurrency mar
 
 ## :atom:  Analysis
 ### In deliverable 1, the original dataset was cleaned and prepared.  
-- This is the dataset after cleaning. Upon checking this DataFrame, the next step was to create variables for text features and scale it. 
+- **This is the dataset after cleaning. Upon checking this DataFrame, the next step was to create variables for text features and scale it.** 
 ![Deliverable1](https://github.com/Super-Manda/Cryptocurrencies/blob/main/images/deliverable1_crypto_df.png)
 
 
 ### In deliverable 2, Principal Component Analysis (PCA) was used to reduce data dimensions to 3 principal components.
-- This is what the table looked like.
+- **This is what the table looked like.**
 
 ![Deliverable2](https://github.com/Super-Manda/Cryptocurrencies/blob/main/images/deliverable2_table.png)
 
 ### In deliverable 3, cryptocurrencies were clustered using k-means to group them.
-- According to this Elbow Curve, there should be 4 clusters:
+- **According to this Elbow Curve, there should ideally be 4 clusters:**
 ![Deliverable3a](https://github.com/Super-Manda/Cryptocurrencies/blob/main/images/deliverable3_elbow_curve.png)
 
-- A 3d rotating graph was useful to see where the clusters existed.
+- **A 3d rotating graph was useful to see where the clusters existed.**
 ![Deliverable3_3d](https://github.com/Super-Manda/Cryptocurrencies/blob/main/images/3d_graph.png) 
 
 
 ### In deliverable 4, the results were visualized and shared with this client.
-- A table of tradable currencies was shown.
+- **A table of tradable currencies was shown.**
 ![Deliverable4_table](https://github.com/Super-Manda/Cryptocurrencies/blob/main/images/deliverable4_table_tradable_cryptos.png)
 
-- A 2d scatterplt was also useful.
+- **A 2d scatterplot was also useful.**
 ![Deliverable4_plot](https://github.com/Super-Manda/Cryptocurrencies/blob/main/images/deliverable4_2d_scatterplot.png) 
 
 
