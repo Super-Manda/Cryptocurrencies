@@ -35,10 +35,10 @@ There are important clients who are preparing to get into the cryptocurrency mar
 
 ### In conclusion, all of these clusters shown in the model tend to be dominated by currencies of low cost (valued in the cents or less).  Although there are differences among the clusters, none of them stand out as clearly "the best cluster" unless we know more about what the client's particular interest is.  Some of the relatively unknown ones or "valueless" ones may have the potential to grow if they are relatively reputable and associated with a needed purpose in society; however, nothing on this page is meant to be construed as financial advice.    
 
-### Clusters may correspond to some degree with the purpose of the crypto, so unless the client has a particular interest in the last two outlier clusters, the aim would likely be to hand-pick from among Class 0 and Class 1.
+### Clusters may correspond to some degree with the purpose of the crypto, so unless the client has a particular interest in the last two outlier clusters, the aim would likely be to hand-pick primarily from Class 0 and a little bit from Class 1, to come up with some kind of balanced investment.
 
 ## 
-- **Class 0 contains about half of the data points.  There are more recognizable names among them, such as Litecoin Cash and Cardano.**
+- **Class 0 contains about half of the data points.  There are a few more recognizable names among them, such as Litecoin Cash and Cardano.**
 ![class0](https://github.com/Super-Manda/Cryptocurrencies/blob/main/images/3d_graph_on_click_class0.png)
 
 [LCC](https://github.com/Super-Manda/Cryptocurrencies/blob/main/images/LCC.png) 
